@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AtomLabX/LandMark">
-    <img src="Demo/LandMark_Demo.png" alt="Land Mark Demo">
+    <img src="Demo/LandMark_Demo.png" alt="Land Mark Demo" width="300" height="620">
   </a>
 
   <h3 align="center">❤️ LAND MARK ❤️</h3>
